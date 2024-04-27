@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.6db8e6fb.chunk.css",
-    "main.js": "/static/js/main.0e897a10.chunk.js",
-    "main.js.map": "/static/js/main.0e897a10.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.2781e2dc.js",
-    "runtime-main.js.map": "/static/js/runtime-main.2781e2dc.js.map",
-    "static/js/2.0b1cc61a.chunk.js": "/static/js/2.0b1cc61a.chunk.js",
-    "static/js/2.0b1cc61a.chunk.js.map": "/static/js/2.0b1cc61a.chunk.js.map",
+    "main.js": "/static/js/main.828c173f.chunk.js",
+    "main.js.map": "/static/js/main.828c173f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3ed17b3d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3ed17b3d.js.map",
+    "static/js/2.6701d587.chunk.js": "/static/js/2.6701d587.chunk.js",
+    "static/js/2.6701d587.chunk.js.map": "/static/js/2.6701d587.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.250b43c8d94c45503076b8746a46ef1b.js": "/precache-manifest.250b43c8d94c45503076b8746a46ef1b.js",
+    "precache-manifest.5d0da77e4eb480a4907ccf16bfc2996f.js": "/precache-manifest.5d0da77e4eb480a4907ccf16bfc2996f.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.6db8e6fb.chunk.css.map": "/static/css/main.6db8e6fb.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
@@ -22,16 +22,15 @@
     "static/media/data_science.svg": "/static/media/data_science.ebf35d7f.svg",
     "static/media/deeplearning_ai_logo.png": "/static/media/deeplearning_ai_logo.75a7107b.png",
     "static/media/developerActivity.svg": "/static/media/developerActivity.3e23ca14.svg",
-    "static/media/dsc_logo.png": "/static/media/dsc_logo.63f707f2.png",
     "static/media/education.svg": "/static/media/education.3bab7a9d.svg",
     "static/media/experience.svg": "/static/media/experience.a00ede3f.svg",
     "static/media/all.css": "/static/media/fa-solid-900.8e4a6dcc.eot",
     "static/media/feelingProud.svg": "/static/media/feelingProud.2936ce95.svg",
     "static/media/fullstack.svg": "/static/media/fullstack.fce60807.svg",
     "static/media/gcp_logo.png": "/static/media/gcp_logo.0ee7e8c9.png",
-    "static/media/github_logo.png": "/static/media/github_logo.6eeb2e81.png",
     "static/media/googleAssistant.jpg": "/static/media/googleAssistant.0c8a4c11.jpg",
     "static/media/googleAssistant.svg": "/static/media/googleAssistant.a6addc3f.svg",
+    "static/media/hcc_logo.png": "/static/media/hcc_logo.8801cbc6.png",
     "static/media/ibm_logo.png": "/static/media/ibm_logo.d3fccbe1.png",
     "static/media/intel_logo.jpg": "/static/media/intel_logo.29152cf7.jpg",
     "static/media/iu_logo.png": "/static/media/iu_logo.60ed0bd3.png",
@@ -48,13 +47,12 @@
     "static/media/stanford_logo.png": "/static/media/stanford_logo.2c497738.png",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.6ac91b16.svg",
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.3fa54242.svg",
-    "static/media/tiktok_logo.png": "/static/media/tiktok_logo.0993e324.png",
     "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.d6363089.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2781e2dc.js",
-    "static/js/2.0b1cc61a.chunk.js",
+    "static/js/runtime-main.3ed17b3d.js",
+    "static/js/2.6701d587.chunk.js",
     "static/css/main.6db8e6fb.chunk.css",
-    "static/js/main.0e897a10.chunk.js"
+    "static/js/main.828c173f.chunk.js"
   ]
 }
